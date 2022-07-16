@@ -1,2 +1,2 @@
-#Desafio de Projetos sobre Git/GitHub da DIO
+# Desafio de Projetos sobre Git/GitHub da DIO
 Meu primeiro repositório 
